@@ -1,0 +1,4 @@
+
+# @title  **⏬ Install requirement**
+
+!pip install -q rdkit py3Dmol gradio
