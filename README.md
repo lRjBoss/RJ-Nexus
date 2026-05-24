@@ -1,6 +1,3 @@
-# RJ-Nexus
-Advanced AI Bio-Medical Simulator.
-
 # 🧬 RJ Project 109: NEXUS Engine
 ### Advanced AI Bio-Medical Simulator
 
