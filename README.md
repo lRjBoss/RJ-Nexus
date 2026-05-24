@@ -4,7 +4,7 @@ Advanced AI Bio-Medical Simulator.
 # 🧬 RJ Project 109: NEXUS Engine
 ### Advanced AI Bio-Medical Simulator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lRjBoss/RJ-Nexus/blob/main/nuxus.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lRjBoss/RJ-Nexus/blob/main/Nexus%20by%20RJ)
 
 > *"This is my last project. It's time to say goodbye, but the journey doesn't end here. I'm leaving the Nexus Engine to the community. Keep experimenting, keep discovering, and keep pushing the boundaries of science."*
 > 
